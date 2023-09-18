@@ -1,8 +1,9 @@
 # GrimaceParty
+Grimace Party is basically a game where you walk around as grimace and drink grimace shakes. Each grimace shake will give you different effects. 
+
 This is the official repository for Grimace Party.
 All of the brand new and released updates will be published here.
-The current version is still in Alpha Testing.
-There is also the prototype test that is available here.
+The current version is the prototype
 
 I'm guessing that I will use the GrimaceParty repository currently for the official new releases, but I feel like in the future, I might add this to steam or make a website for the download.
 
