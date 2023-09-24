@@ -7,5 +7,5 @@ How to install:
 1. Download the grimace party
 2. Unzip it
 3. Move the folder GrimaceParty to you C:/ (c drive)
-4. You can now play!!!
+4. You can now play!!! The exe is called console application. I am too lazy to rename it sorry :(
 
